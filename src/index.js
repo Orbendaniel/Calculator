@@ -6,5 +6,6 @@ import App from "./component/App";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
-console.log('hello worldssasadass');
+console.log('hello');
+
 
